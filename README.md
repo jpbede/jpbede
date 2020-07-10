@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 E-Mail Deliverability Engineer & SRE @ CleverReach®
+- 📡 Doing some network stuff at my own ASN (AS206479)
+- 🗺 Some OpenStreetMap in my free time
+
 <!--
 **jpbede/jpbede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
