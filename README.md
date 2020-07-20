@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 📫  E-Mail Deliverability Engineer & SRE @ CleverReach®
+
 📡  Doing some network stuff at my own ASN (AS206479)
+
 🗺  Some OpenStreetMap in my free time
 
 <!--
