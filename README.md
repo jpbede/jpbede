@@ -1,6 +1,6 @@
 ### Hi there, my name is Jan-Philipp 👋
 
-- 📫 E-Mail Deliverability Engineer & Software Engineer @ CleverReach®
+- 📫 Email Deliverability Engineer & Software Engineer @ CleverReach®
 - 🛠 Maintainer of the [DNSControl](https://github.com/StackExchange/dnscontrol) PowerDNS provider 
 - 📡 Doing some network stuff at my own ASN (AS206479)
 
